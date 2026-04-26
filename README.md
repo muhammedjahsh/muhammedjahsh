@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="image_1.png" width="100%" alt="Muhammed Jahsh V | Data Scientist | AI Developer | Agentic AI Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Developer+%7C+Agentic+AI+Builder;LLM+Agents+%7C+RAG+Pipelines+%7C+Multi-Agent+Systems;ML+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+Raw+Data+into+Autonomous+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=header&text=Muhammed+Jahsh+V&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <br/>
 
 <h4>
   <a href="#-about-me">👤 About Me</a> •
-  <a href="#-agentic-ai-ecosystem">🤖 Ecosystem</a> •
   <a href="#-featured-projects">🚀 Projects</a> •
-  <a href="#%EF%B8%8F-modern-tech-lattice">🛠️ Tech Stack</a> •
-  <a href="#-dynamic-analytics">📈 Stats</a> •
-  <a href="#-lets-build">🤝 Connect</a>
+  <a href="#%EF%B8%8F-interactive-tech-stack">🛠️ Tech Stack</a> •
+  <a href="#-github-analytics">📈 Stats</a> •
+  <a href="#-lets-connect">🤝 Contact</a>
 </h4>
 
 </div>
@@ -21,111 +24,114 @@
 
 **Data Scientist | Agentic AI Builder | ML Engineer**
 
-I specialize in constructing end-to-end AI pipelines and sophisticated agentic systems, moving beyond simple automation to create truly autonomous, decision-making intelligence in production. I bridge the gap between cutting-edge Machine Learning research and scalable, real-world applications.
-
-<div align="center">
-  <img src="image_1.png" width="80%" alt="Agentic AI Visualization: Turning Raw Data into Intelligence" />
-</div>
+I specialize in constructing end-to-end AI pipelines and sophisticated agentic systems. My goal is to move beyond simple automation to create truly autonomous, decision-making intelligence in production. 
 
 - 🔭 **Current Focus:** Optimizing multi-agent orchestration loops and large-scale RAG deployments.
 - 🌱 **Learning & Research:** Deepening expertise in specialized LLM fine-tuning and MLOps at scale.
 - 💬 **Core Interests:** Computer Vision, Natural Language Processing, Vector Databases, and System Architecture.
-- 📫 **Direct Reach:** [jahshvrd@gmail.com](mailto:jahshvrd@gmail.com)
 
----
-
-## 🤖 Agentic AI Ecosystem 2.0
-
-> *Visualizing the architecture of autonomous intelligence.*
-
-<br/>
-<div align="center">
-  <img src="image_1.png" width="70%" alt="Agentic AI Ecosystem Flow: RAG Pipelines, Multi-Agent Orchestration, Tool Use" />
-</div>
 <br/>
 
 ---
 
 ## 🚀 Featured Projects
 
-> *Click to expand and explore the architecture of my top autonomous systems.*
+> *Click to expand and explore the architecture of my top projects.*
+
+<details>
+<summary><b>🤖 1. Autonomous Financial Analyst System (Click to Expand)</b></summary>
+<br/>
+An end-to-end multi-agent system designed to scrape, analyze, and summarize complex financial datasets using large language models.
+
+* **Architecture:** Utilizes LangChain for agent orchestration, PyTorch for custom predictive modeling, and FastAPI for the backend serving.
+* **Impact:** Reduced financial data processing time by 40% in simulated tests.
+* **Links:** [View Repository](#) | [Live Demo](#)
+</details>
+
+<details>
+<summary><b>👁️ 2. Real-Time Object Detection Pipeline (Click to Expand)</b></summary>
+<br/>
+A highly optimized computer vision pipeline capable of running inference on live video streams with minimal latency.
+
+* **Architecture:** Built on TensorFlow and OpenCV, containerized via Docker for seamless cloud deployment.
+* **Impact:** Achieved 60 FPS processing on standard edge devices.
+* **Links:** [View Repository](#) | [Watch Video Demonstration](#)
+</details>
+
+<details>
+<summary><b>🧠 3. Enterprise RAG Knowledge Bot (Click to Expand)</b></summary>
+<br/>
+A Retrieval-Augmented Generation application that allows users to chat natively with thousands of PDF documents.
+
+* **Architecture:** Leverages HuggingFace embeddings, a dedicated Vector Database (e.g., Pinecone/Milvus), and a Streamlit frontend.
+* **Impact:** Eliminates manual document searching via semantic queries.
+* **Links:** [View Repository](#) | [Read Documentation](#)
+</details>
+
+<br/>
+
+---
+
+## 🛠️ Interactive Tech Stack
+
+> *Technologies I use to bring ideas to life.*
 
 <details open>
-<summary><b>🤖 Project 01: Autonomous Financial Analyst System</b></summary>
+<summary><b>🔬 AI, Machine Learning & Data</b></summary>
 <br/>
-<div align="center">
-  <img src="image_2.png" width="60%" alt="Featured Project 01 Showcase Card" />
-</div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 </details>
 
 <details>
-<summary><b>👁️ Project 02: Real-time Object Detection Pipeline</b></summary>
+<summary><b>⚙️ Backend, DevOps & Infrastructure</b></summary>
 <br/>
-<div align="center">
-  <img src="image_2.png" width="60%" alt="Featured Project 02 Showcase Card" />
-</div>
-</details>
 
-<details>
-<summary><b>🧠 Project 03: Enterprise RAG Knowledge Bot</b></summary>
-<br/>
-<div align="center">
-  <img src="image_2.png" width="60%" alt="Featured Project 03 Showcase Card" />
-</div>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </details>
 
 <br/>
 
-*View all my repositories [here](https://github.com/muhammedjahsh?tab=repositories).*
-
 ---
 
-## 🛠️ Modern Tech Lattice
+## 📈 GitHub Analytics
 
-> *Technologies I weave into intelligent systems. Click to explore a specific skill node.*
-
-<br/>
 <div align="center">
-  <img src="image_2.png" width="80%" alt="Modernized Technical Skill Grid Lattice" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammedjahsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjahsh&theme=tokyonight&hide_border=true" />
+  <br/>
+  <br/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjahsh&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-<br/>
 
 ---
 
-## 📈 Dynamic Analytics & Activity
+## 🤝 Let's Connect
 
-> *Real-time visualization of my development metrics and contribution heatmap.*
+> *I am always open to discussing cutting-edge AI, innovative solutions, or potential collaborations.*
 
-<br/>
 <div align="center">
-  <img src="image_3.png" width="85%" alt="Integrated GitHub Stats and Activity Visualization Interface" />
-</div>
-<br/>
-
----
-
-## 📝 Latest Articles & Activity
-
-> *Stay updated with my recent blog posts and open-source contributions. This section updates automatically.*
-
-*Checking my autonomous feeds for the latest updates...*
-<div align="right">
-  <sub>*Workflow configured using gautamkrishnar/blog-post-workflow*</sub>
+  <a href="https://www.linkedin.com/in/muhammed-jahsh-v-818182267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:jahshvrd@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
+  <a href="https://github.com/muhammedjahsh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
 </div>
 
----
-
-## 🤝 Let's Build
-
-<br/>
-<div align="center">
-  <img src="image_3.png" width="100%" alt="Closing Connect Banner: LET'S BUILD TOGETHER" />
-</div>
 <br/>
 
 <div align="center">
   <a href="#top">⬆️ Back to Top</a>
 </div>
 
-<br/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=60&section=footer" width="100%"/>
