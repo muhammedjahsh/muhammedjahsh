@@ -146,18 +146,23 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
 <details>
 <summary><b>⚙️ Artificial Intelligence Core</b></summary>
 <br/>
+### 🔬 AI & Machine Learning
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-CF8321?style=for-the-badge&logo=NLP&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-CF8321?style=for-the-badge)
+
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge)
 ![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-6A0DAD?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-1E90FF?style=for-the-badge&logo=openai&logoColor=white)
-![Software Development Kit](https://img.shields.io/badge/Software%20Development%20Kit-444444?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-1E90FF?style=for-the-badge)
 ![Microsoft AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![SDK](https://img.shields.io/badge/SDK-444444?style=for-the-badge)
 
 
 </details>
