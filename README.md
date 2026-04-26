@@ -77,7 +77,7 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
 > *Technologies I use to bring ideas to life.*
 
 <details open>
-<summary><b>🔬 Programming Languages & Libraries</b></summary>
+<summary><b>💻 Programming Languages & Libraries</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -121,9 +121,9 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
 <br/>
 
 <details>
-<summary><b>Tools</b></summary>
+<summary><b>🛠️ Tools</b></summary>
 <br/>
-### 🛠️ IDE
+ 💻 IDEs & Editors
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -133,7 +133,7 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
 
 ---
 
-### 📊 Data & Business Tools
+ 📊 Data & Business Tools
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -144,9 +144,8 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
 
 </details>
 <details>
-<summary><b>⚙️ Artificial Intelligence Core</b></summary>
+<summary><b>🤖 Artificial Intelligence</b></summary>
 <br/>
-### 🔬 AI & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
@@ -188,6 +187,9 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
   <a href="https://www.linkedin.com/in/muhammed-jahsh-v-818182267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:jahshvrd@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
   <a href="https://github.com/muhammedjahsh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
+  <a href="https://muhammedjahsh.github.io/my_portfolio/">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
 </div>
 
 <br/>
