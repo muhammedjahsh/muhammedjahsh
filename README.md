@@ -1,78 +1,139 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Muhammed Jahsh</h1>
-<h3 align="center">🚀 Data Scientist | AI Engineer | Data Analyst</h3>
+<div align="center">
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00A8E8&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Gen+AI+%7C+Agentic+AI+%7C+RAG;Power+BI+%7C+Analytics+Expert;Building+AI+Products+🚀" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Developer+%7C+Agentic+AI+Builder;LLM+Agents+%7C+RAG+Pipelines+%7C+Multi-Agent+Systems;ML+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+Raw+Data+into+Autonomous+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=header&text=Muhammed+Jahsh+V&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+<br/>
+
+<h4>
+  <a href="#-about-me">👤 About Me</a> •
+  <a href="#-featured-projects">🚀 Projects</a> •
+  <a href="#%EF%B8%8F-interactive-tech-stack">🛠️ Tech Stack</a> •
+  <a href="#-github-analytics">📈 Stats</a> •
+  <a href="#-lets-connect">🤝 Contact</a>
+</h4>
+
+</div>
 
 ---
 
-## 🧠 About Me
-- 🔍 Passionate about turning **data into insights**
-- 🤖 Building **AI-powered applications & automation**
-- 📊 Expert in **Power BI, Tableau & Data Visualization**
-- 🚀 Working on **Trading Bots, AI Agents & RAG Systems**
+## 👋 About Me
+
+**Data Scientist | Agentic AI Builder | ML Engineer**
+
+I specialize in constructing end-to-end AI pipelines and sophisticated agentic systems. My goal is to move beyond simple automation to create truly autonomous, decision-making intelligence in production. 
+
+- 🔭 **Current Focus:** Optimizing multi-agent orchestration loops and large-scale RAG deployments.
+- 🌱 **Learning & Research:** Deepening expertise in specialized LLM fine-tuning and MLOps at scale.
+- 💬 **Core Interests:** Computer Vision, Natural Language Processing, Vector Databases, and System Architecture.
+
+<br/>
 
 ---
 
-## 🔬 AI, ML & Data Science
+## 🚀 Featured Projects
+
+> *Click to expand and explore the architecture of my top projects.*
+
+<details>
+<summary><b>🤖 1. Autonomous Financial Analyst System (Click to Expand)</b></summary>
+<br/>
+An end-to-end multi-agent system designed to scrape, analyze, and summarize complex financial datasets using large language models.
+
+* **Architecture:** Utilizes LangChain for agent orchestration, PyTorch for custom predictive modeling, and FastAPI for the backend serving.
+* **Impact:** Reduced financial data processing time by 40% in simulated tests.
+* **Links:** [View Repository](#) | [Live Demo](#)
+</details>
+
+<details>
+<summary><b>👁️ 2. Real-Time Object Detection Pipeline (Click to Expand)</b></summary>
+<br/>
+A highly optimized computer vision pipeline capable of running inference on live video streams with minimal latency.
+
+* **Architecture:** Built on TensorFlow and OpenCV, containerized via Docker for seamless cloud deployment.
+* **Impact:** Achieved 60 FPS processing on standard edge devices.
+* **Links:** [View Repository](#) | [Watch Video Demonstration](#)
+</details>
+
+<details>
+<summary><b>🧠 3. Enterprise RAG Knowledge Bot (Click to Expand)</b></summary>
+<br/>
+A Retrieval-Augmented Generation application that allows users to chat natively with thousands of PDF documents.
+
+* **Architecture:** Leverages HuggingFace embeddings, a dedicated Vector Database (e.g., Pinecone/Milvus), and a Streamlit frontend.
+* **Impact:** Eliminates manual document searching via semantic queries.
+* **Links:** [View Repository](#) | [Read Documentation](#)
+</details>
+
+<br/>
+
+---
+
+## 🛠️ Interactive Tech Stack
+
+> *Technologies I use to bring ideas to life.*
+
+<details open>
+<summary><b>🔬 AI, Machine Learning & Data</b></summary>
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-CF8321?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
-
+![SQL](https://img.shields.io/badge/SQL-4F2118?style=for-the-badge&logo=SQL&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-CF8321?style=for-the-badge&logo=NLP&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+</details>
+
+<details>
+<summary><b>⚙️ Backend, DevOps & Infrastructure</b></summary>
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</details>
+
+<br/>
 
 ---
 
-## 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammedjahsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjahsh&theme=tokyonight&hide_border=true" />
+  <br/>
+  <br/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjahsh&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## ⚙️ Backend & DevOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+## 🤝 Let's Connect
 
----
+> *I am always open to discussing cutting-edge AI, innovative solutions, or potential collaborations.*
 
-## 🤖 Tools & Automation
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-1E90FF?style=for-the-badge)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge)
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammed-jahsh-v-818182267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:jahshvrd@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
+  <a href="https://github.com/muhammedjahsh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
+</div>
 
----
+<br/>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<div align="center">
+  <a href="#top">⬆️ Back to Top</a>
+</div>
 
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:jahshvrd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-⭐️ *"Turning Data into Intelligence, and Intelligence into Action."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=60&section=footer" width="100%"/>
