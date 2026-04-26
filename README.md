@@ -90,9 +90,6 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-CF8321?style=for-the-badge&logo=NLP&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
@@ -126,12 +123,13 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
 <details>
 <summary><b>Tools</b></summary>
 <br/>
-### 🛠️ Tools
+### 🛠️ IDE
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
@@ -145,7 +143,24 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
 
 
 </details>
+<details>
+<summary><b>⚙️ Artificial Intelligence Core</b></summary>
+<br/>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-CF8321?style=for-the-badge&logo=NLP&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-6A0DAD?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-1E90FF?style=for-the-badge&logo=openai&logoColor=white)
+![Software Development Kit](https://img.shields.io/badge/Software%20Development%20Kit-444444?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+![Microsoft AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+
+</details>
 ---
 
 ## 📈 GitHub Analytics
