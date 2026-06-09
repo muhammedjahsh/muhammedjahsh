@@ -187,7 +187,7 @@ A Retrieval-Augmented Generation application that allows users to chat natively 
   <a href="https://www.linkedin.com/in/muhammed-jahsh-v-818182267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:jahshvrd@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
   <a href="https://github.com/muhammedjahsh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://muhammedjahsh.github.io/my_portfolio/">
+  <a href="https://muhammedjahsh.github.io/jahsh.in/">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
 </div>
