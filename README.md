@@ -1,201 +1,258 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Developer+%7C+Agentic+AI+Builder;LLM+Agents+%7C+RAG+Pipelines+%7C+Multi-Agent+Systems;ML+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+Raw+Data+into+Autonomous+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:8A2BE2&height=220&section=header&text=Muhammed%20Jahsh%20V&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Agentic%20AI%20Builder%20%7C%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=header&text=Muhammed+Jahsh+V&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+Autonomous+Multi-Agent+Systems+%F0%9F%A4%96;Designing+Production-Grade+RAG+Pipelines+%F0%9F%93%9A;Engineering+Deep+Learning+%26+Computer+Vision+Models+%F0%9F%91%81%EF%B8%8F;Turning+Raw+Data+into+Autonomous+Intelligence+%E2%9A%A1" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<h4>
-  <a href="#-about-me">👤 About Me</a> •
-  <a href="#-featured-projects">🚀 Projects</a> •
-  <a href="#%EF%B8%8F-interactive-tech-stack">🛠️ Tech Stack</a> •
-  <a href="#-github-analytics">📈 Stats</a> •
-  <a href="#-lets-connect">🤝 Contact</a>
-</h4>
+<a href="https://www.linkedin.com/in/muhammed-jahsh-v-818182267/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jahshvrd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://muhammedjahsh.github.io/jahsh.in/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=muhammedjahsh&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#%EF%B8%8F-tech-arsenal">Tech Stack</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-lets-build-something">Contact</a>
+</div>
+
+<br/>
 
 ---
 
 ## 👋 About Me
 
-**Data Scientist | Agentic AI Builder | ML Engineer**
+<img align="right" width="340" src="https://raw.githubusercontent.com/kirankumarjas/kirankumarjas/master/gif3.gif" alt="coding animation"/>
 
-I specialize in constructing end-to-end AI pipelines and sophisticated agentic systems. My goal is to move beyond simple automation to create truly autonomous, decision-making intelligence in production. 
+I'm a **Data Scientist** and **Agentic AI Builder** focused on shipping end-to-end AI systems — from raw, messy data to autonomous agents that make decisions in production, not just demos.
 
-- 🔭 **Current Focus:** Optimizing multi-agent orchestration loops and large-scale RAG deployments.
-- 🌱 **Learning & Research:** Deepening expertise in specialized LLM fine-tuning and MLOps at scale.
-- 💬 **Core Interests:** Computer Vision, Natural Language Processing, Vector Databases, and System Architecture.
+```python
+class MuhammedJahsh:
+    def __init__(self):
+        self.role = "Data Scientist | Agentic AI Builder"
+        self.stack = ["Python", "PyTorch", "LangChain", "LangGraph"]
+        self.focus = "Multi-agent orchestration & scalable RAG"
+        self.currently_learning = "Advanced LLM fine-tuning, MLOps at scale"
 
-<br/>
+    def say_hi(self):
+        print("Let's build autonomous systems together 🚀")
+
+me = MuhammedJahsh()
+me.say_hi()
+```
+
+- 🔭 **Currently building:** Multi-agent orchestration loops and large-scale RAG deployments
+- 🌱 **Currently deepening:** Specialized LLM fine-tuning and MLOps at scale
+- 💡 **Core interests:** Computer Vision · NLP · Vector Databases · System Architecture
+- ⚡ **Fun fact:** I enjoy turning "it works on my laptop" into "it works at scale in production"
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 Featured Projects
 
-> *Click to expand and explore the architecture of my top projects.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🤖 1. Autonomous Financial Analyst System (Click to Expand)</b></summary>
-<br/>
-An end-to-end multi-agent system designed to scrape, analyze, and summarize complex financial datasets using large language models.
+### 🤖 Autonomous Financial Analyst System
+An end-to-end multi-agent system that scrapes, analyzes, and summarizes complex financial datasets using LLMs.
 
-* **Architecture:** Utilizes LangChain for agent orchestration, PyTorch for custom predictive modeling, and FastAPI for the backend serving.
-* **Impact:** Reduced financial data processing time by 40% in simulated tests.
-* **Links:** [View Repository](#) | [Live Demo](#)
-</details>
+**Highlights**
+- Multi-agent orchestration with LangChain
+- Custom predictive modeling in PyTorch
+- FastAPI backend, ~40% faster data processing in simulated tests
 
-<details>
-<summary><b>👁️ 2. Real-Time Object Detection Pipeline (Click to Expand)</b></summary>
-<br/>
-A highly optimized computer vision pipeline capable of running inference on live video streams with minimal latency.
+`Python` `LangChain` `PyTorch` `FastAPI`
 
-* **Architecture:** Built on TensorFlow and OpenCV, containerized via Docker for seamless cloud deployment.
-* **Impact:** Achieved 60 FPS processing on standard edge devices.
-* **Links:** [View Repository](#) | [Watch Video Demonstration](#)
-</details>
+[Repository](#) · [Live Demo](#)
 
-<details>
-<summary><b>🧠 3. Enterprise RAG Knowledge Bot (Click to Expand)</b></summary>
-<br/>
-A Retrieval-Augmented Generation application that allows users to chat natively with thousands of PDF documents.
+</td>
+<td width="50%" valign="top">
 
-* **Architecture:** Leverages HuggingFace embeddings, a dedicated Vector Database (e.g., Pinecone/Milvus), and a Streamlit frontend.
-* **Impact:** Eliminates manual document searching via semantic queries.
-* **Links:** [View Repository](#) | [Read Documentation](#)
-</details>
+### 👁️ Real-Time Object Detection Pipeline
+A highly optimized computer vision pipeline running inference on live video streams with minimal latency.
 
-<br/>
+**Highlights**
+- Built on TensorFlow + OpenCV
+- Containerized with Docker for cloud deployment
+- 60 FPS on standard edge devices
+
+`TensorFlow` `OpenCV` `Docker`
+
+[Repository](#) · [Video Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Enterprise RAG Knowledge Bot
+A Retrieval-Augmented Generation app that lets users chat natively with thousands of PDF documents.
+
+**Highlights**
+- HuggingFace embeddings + vector database (Pinecone/Milvus)
+- Streamlit frontend for semantic search
+- Eliminates manual document lookup entirely
+
+`HuggingFace` `Vector DB` `Streamlit`
+
+[Repository](#) · [Documentation](#)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Your Next Big Project
+Have another repo you're proud of? Swap this card for it — a fourth project balances the grid and gives visitors more to explore.
+
+**Highlights**
+- Replace with your project's key wins
+- Add real metrics for credibility
+- Link straight to the repo
+
+`Add` `Your` `Stack`
+
+[Repository](#) · [Details](#)
+
+</td>
+</tr>
+</table>
+
+> 💡 **Tip:** Replace the `#` links above with your actual repository and demo URLs so recruiters and collaborators can click straight through.
 
 ---
 
-## 🛠️ Interactive Tech Stack
-
-> *Technologies I use to bring ideas to life.*
+## 🛠️ Tech Arsenal
 
 <details open>
-<summary><b>💻 Programming Languages & Libraries</b></summary>
+<summary><b>💻 Languages & Data Science Core</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-4F2118?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres&theme=dark" />
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 </details>
 
 <details>
-<summary><b>⚙️ Backend, DevOps & Frameworks</b></summary>
+<summary><b>🤖 Agentic AI, LLMs & GenAI</b></summary>
 <br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-1E90FF?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge)
+![Large Language Models](https://img.shields.io/badge/LLMs-6A0DAD?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-534AB7?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-CF8321?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend, MLOps & DevOps</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,docker,git,linux,aws,azure&theme=dark" />
+
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </details>
 
-<br/>
-
 <details>
-<summary><b>🛠️ Tools</b></summary>
+<summary><b>📊 Data, BI & Productivity Tools</b></summary>
 <br/>
- 💻 IDEs & Editors
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
----
-
- 📊 Data & Business Tools
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
 
-
-</details>
-<details>
-<summary><b>🤖 Artificial Intelligence</b></summary>
-<br/>
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-CF8321?style=for-the-badge)
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge)
-![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-6A0DAD?style=for-the-badge)
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-1E90FF?style=for-the-badge)
-![Microsoft AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![SDK](https://img.shields.io/badge/SDK-444444?style=for-the-badge)
-
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,cursor&theme=dark" />
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 </details>
+
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammedjahsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjahsh&theme=tokyonight&hide_border=true" />
-  <br/>
-  <br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedjahsh&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedjahsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjahsh&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjahsh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedjahsh&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammedjahsh&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%"/>
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-> *I am always open to discussing cutting-edge AI, innovative solutions, or potential collaborations.*
+## 🤝 Let's Build Something
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammed-jahsh-v-818182267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:jahshvrd@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
-  <a href="https://github.com/muhammedjahsh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://muhammedjahsh.github.io/jahsh.in/">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+
+I'm always open to discussing cutting-edge AI, agentic architectures, or potential collaborations — feel free to reach out.
+
+<a href="https://www.linkedin.com/in/muhammed-jahsh-v-818182267/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="mailto:jahshvrd@gmail.com">
+  <img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/muhammedjahsh">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://muhammedjahsh.github.io/jahsh.in/">
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+
+<br/><br/>
+
+<a href="#top">⬆️ Back to Top</a>
+
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="#top">⬆️ Back to Top</a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:534AB7&height=120&section=footer" width="100%"/>
