@@ -201,7 +201,7 @@ Have another repo you're proud of? Swap this card for it — a fourth project ba
 ![Zoho](https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,cursor&theme=dark" />
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
 
 </details>
 
