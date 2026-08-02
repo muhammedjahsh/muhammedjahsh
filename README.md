@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:8A2BE2&height=220&section=header&text=Muhammed%20Jahsh%20V&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Agentic%20AI%20Builder%20%7C%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,50:6D3FC7,100:8A2BE2&height=250&section=header&text=Muhammed%20Jahsh%20V&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20Agentic%20AI%20Builder%20%7C%20ML%20Engineer&descAlignY=54&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+Autonomous+Multi-Agent+Systems+%F0%9F%A4%96;Designing+Production-Grade+RAG+Pipelines+%F0%9F%93%9A;Engineering+Deep+Learning+%26+Computer+Vision+Models+%F0%9F%91%81%EF%B8%8F;Turning+Raw+Data+into+Autonomous+Intelligence+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=800&height=50&lines=Building+Autonomous+Multi-Agent+Systems+%F0%9F%A4%96;Designing+Production-Grade+RAG+Pipelines+%F0%9F%93%9A;Engineering+Deep+Learning+%26+Computer+Vision+Models+%F0%9F%91%81%EF%B8%8F;Turning+Raw+Data+into+Autonomous+Intelligence+%E2%9A%A1" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/muhammed-jahsh-v-818182267/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,9 +15,16 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://muhammedjahsh.github.io/jahsh.in/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
+<a href="https://github.com/muhammedjahsh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=muhammedjahsh&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/muhammedjahsh?style=for-the-badge&color=534AB7&labelColor=black" alt="Followers"/>
 
 </div>
 
@@ -33,7 +40,7 @@
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 👋 About Me
 
@@ -146,15 +153,17 @@ Have another repo you're proud of? Swap this card for it — a fourth project ba
 
 <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres&theme=dark" />
 
+<br/><br/>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </details>
@@ -182,6 +191,8 @@ Have another repo you're proud of? Swap this card for it — a fourth project ba
 
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,docker,git,linux,aws,azure&theme=dark" />
 
+<br/><br/>
+
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
@@ -194,14 +205,15 @@ Have another repo you're proud of? Swap this card for it — a fourth project ba
 <summary><b>📊 Data, BI & Productivity Tools</b></summary>
 <br/>
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Zoho](https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,cursor&theme=dark" />
+<br/><br/>
 
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,cursor&theme=dark" />
 
 </details>
 
@@ -211,16 +223,26 @@ Have another repo you're proud of? Swap this card for it — a fourth project ba
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedjahsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedjahsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjahsh&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjahsh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedjahsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedjahsh&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br/><br/>
+
+<!--
+  Animated contribution snake — requires a one-time GitHub Actions setup.
+  Add the "Platane/snk" workflow to your profile repo, then it will auto-generate
+  and commit `github-contribution-grid-snake.svg` on a schedule.
+  Docs: https://github.com/Platane/snk
+-->
+<img src="https://raw.githubusercontent.com/muhammedjahsh/muhammedjahsh/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 <br/><br/>
 
@@ -246,10 +268,12 @@ I'm always open to discussing cutting-edge AI, agentic architectures, or potenti
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://muhammedjahsh.github.io/jahsh.in/">
-  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 
 <br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
 
 <a href="#top">⬆️ Back to Top</a>
 
