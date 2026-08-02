@@ -48,25 +48,34 @@
 
 I'm a **Data Scientist** and **Agentic AI Builder** focused on shipping end-to-end AI systems — from raw, messy data to autonomous agents that make decisions in production, not just demos.
 
-```python
-class MuhammedJahsh:
-    def __init__(self):
-        self.role = "Data Scientist | Agentic AI Builder"
-        self.stack = ["Python", "PyTorch", "LangChain", "LangGraph"]
-        self.focus = "Multi-agent orchestration & scalable RAG"
-        self.currently_learning = "Advanced LLM fine-tuning, MLOps at scale"
+<br/>
 
-    def say_hi(self):
-        print("Let's build autonomous systems together 🚀")
+<table>
+<tr>
+<td width="60">🔭</td>
+<td><b>Currently building</b><br/>Multi-agent orchestration loops and large-scale RAG deployments</td>
+</tr>
+<tr>
+<td width="60">🌱</td>
+<td><b>Currently deepening</b><br/>Specialized LLM fine-tuning and MLOps at scale</td>
+</tr>
+<tr>
+<td width="60">💡</td>
+<td><b>Core interests</b><br/>Computer Vision · NLP · Vector Databases · System Architecture</td>
+</tr>
+<tr>
+<td width="60">⚡</td>
+<td><b>Fun fact</b><br/>I enjoy turning "it works on my laptop" into "it works at scale in production"</td>
+</tr>
+</table>
 
-me = MuhammedJahsh()
-me.say_hi()
-```
+<br/>
 
-- 🔭 **Currently building:** Multi-agent orchestration loops and large-scale RAG deployments
-- 🌱 **Currently deepening:** Specialized LLM fine-tuning and MLOps at scale
-- 💡 **Core interests:** Computer Vision · NLP · Vector Databases · System Architecture
-- ⚡ **Fun fact:** I enjoy turning "it works on my laptop" into "it works at scale in production"
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Multi--Agent%20Orchestration%20%26%20RAG-534AB7?style=flat-square)
 
 <br clear="right"/>
 
