@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,50:6D3FC7,100:8A2BE2&height=250&section=header&text=Muhammed%20Jahsh%20V&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20Agentic%20AI%20Builder%20%7C%20ML%20Engineer&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,50:8A2BE2,100:D291FF&height=260&section=header&text=Muhammed%20Jahsh%20V&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Data%20Scientist%20%7C%20Agentic%20AI%20Builder%20%7C%20ML%20Engineer&descAlignY=53&descSize=19" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&random=false&width=820&height=50&lines=Building+Autonomous+Multi-Agent+Systems+%F0%9F%A4%96;Designing+Production-Grade+RAG+Pipelines+%F0%9F%93%9A;Engineering+Deep+Learning+%26+Computer+Vision+Models+%F0%9F%91%81%EF%B8%8F;Turning+Raw+Data+into+Autonomous+Intelligence+%E2%9A%A1;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=800&height=50&lines=Building+Autonomous+Multi-Agent+Systems+%F0%9F%A4%96;Designing+Production-Grade+RAG+Pipelines+%F0%9F%93%9A;Engineering+Deep+Learning+%26+Computer+Vision+Models+%F0%9F%91%81%EF%B8%8F;Turning+Raw+Data+into+Autonomous+Intelligence+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
 
 <br/>
 
@@ -24,25 +26,30 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=muhammedjahsh&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/muhammedjahsh?style=for-the-badge&color=534AB7&labelColor=black" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/muhammedjahsh?style=for-the-badge&color=534AB7&labelColor=black&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#%EF%B8%8F-tech-arsenal">Tech Stack</a> •
-  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-about-me">About</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-featured-projects">Projects</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-tech-arsenal">Tech Stack</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-github-analytics">Analytics</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="#-lets-build-something">Contact</a>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dashed_line.gif" width="100%"/>
+
+<div align="center">
 
 ## 👋 About Me
+
+</div>
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/kirankumarjas/kirankumarjas/master/gif3.gif" alt="coding animation"/>
 
@@ -52,19 +59,19 @@ I'm a **Data Scientist** and **Agentic AI Builder** focused on shipping end-to-e
 
 <table>
 <tr>
-<td width="60">🔭</td>
+<td width="60" align="center">🔭</td>
 <td><b>Currently building</b><br/>Multi-agent orchestration loops and large-scale RAG deployments</td>
 </tr>
 <tr>
-<td width="60">🌱</td>
+<td width="60" align="center">🌱</td>
 <td><b>Currently deepening</b><br/>Specialized LLM fine-tuning and MLOps at scale</td>
 </tr>
 <tr>
-<td width="60">💡</td>
+<td width="60" align="center">💡</td>
 <td><b>Core interests</b><br/>Computer Vision · NLP · Vector Databases · System Architecture</td>
 </tr>
 <tr>
-<td width="60">⚡</td>
+<td width="60" align="center">⚡</td>
 <td><b>Fun fact</b><br/>I enjoy turning "it works on my laptop" into "it works at scale in production"</td>
 </tr>
 </table>
@@ -79,9 +86,15 @@ I'm a **Data Scientist** and **Agentic AI Builder** focused on shipping end-to-e
 
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dashed_line.gif" width="100%"/>
+
+<div align="center">
 
 ## 🚀 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="35"/>
+
+</div>
 
 <table>
 <tr>
@@ -152,9 +165,15 @@ Have another repo you're proud of? Swap this card for it — a fourth project ba
 
 > 💡 **Tip:** Replace the `#` links above with your actual repository and demo URLs so recruiters and collaborators can click straight through.
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dashed_line.gif" width="100%"/>
+
+<div align="center">
 
 ## 🛠️ Tech Arsenal
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"/>
+
+</div>
 
 <details open>
 <summary><b>💻 Languages & Data Science Core</b></summary>
@@ -226,11 +245,15 @@ Have another repo you're proud of? Swap this card for it — a fourth project ba
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dashed_line.gif" width="100%"/>
+
+<div align="center">
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"/>
+
+<br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedjahsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedjahsh&theme=tokyonight&hide_border=true"/>
@@ -259,11 +282,13 @@ Have another repo you're proud of? Swap this card for it — a fourth project ba
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dashed_line.gif" width="100%"/>
+
+<div align="center">
 
 ## 🤝 Let's Build Something
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221857246-e4a58e2c-1478-42d5-b9f6-3aae3ab34bb1.gif" width="90"/>
 
 I'm always open to discussing cutting-edge AI, agentic architectures, or potential collaborations — feel free to reach out.
 
@@ -288,4 +313,4 @@ I'm always open to discussing cutting-edge AI, agentic architectures, or potenti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:534AB7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D291FF,50:8A2BE2,100:534AB7&height=140&section=footer" width="100%"/>
