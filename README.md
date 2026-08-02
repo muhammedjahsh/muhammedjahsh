@@ -86,6 +86,58 @@ I'm a **Data Scientist** and **Agentic AI Builder** focused on shipping end-to-e
 
 <br clear="right"/>
 
+<br/>
+
+### 🎓 Education
+
+<table>
+<tr>
+<td width="60" align="center">🏫</td>
+<td>
+<b>Degree / Program Name</b> — University Name<br/>
+<sub>Year Started – Year Completed · Relevant coursework: Machine Learning, Data Structures, Statistics</sub>
+</td>
+</tr>
+</table>
+
+### 💼 Experience Snapshot
+
+<table>
+<tr>
+<td width="60" align="center">🏢</td>
+<td>
+<b>Job Title</b> — Company Name<br/>
+<sub>Month Year – Present · Built and shipped ML/AI features into production systems</sub>
+</td>
+</tr>
+<tr>
+<td width="60" align="center">📊</td>
+<td>
+<b>Previous Role</b> — Company Name<br/>
+<sub>Month Year – Month Year · Delivered data pipelines, dashboards, and predictive models</sub>
+</td>
+</tr>
+</table>
+
+### 🏆 Achievements & Certifications
+
+- 🥇 Certification or award name — Issuing organization, Year
+- 📜 Certification or award name — Issuing organization, Year
+- 🌟 Notable achievement (hackathon win, published paper, open-source milestone, etc.)
+
+### 📌 Quick Facts
+
+<table>
+<tr>
+<td align="center">🌍<br/><sub><b>Location</b><br/>City, Country</sub></td>
+<td align="center">🗣️<br/><sub><b>Languages</b><br/>English, +others</sub></td>
+<td align="center">⏳<br/><sub><b>Experience</b><br/>X+ years</sub></td>
+<td align="center">🎯<br/><sub><b>Open to</b><br/>Full-time · Freelance · Collabs</sub></td>
+</tr>
+</table>
+
+> 💡 **Tip:** Swap in your real degree, employers, dates, certifications, and location — placeholders here keep the layout intact until you fill in your details.
+
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dashed_line.gif" width="100%"/>
 
 <div align="center">
