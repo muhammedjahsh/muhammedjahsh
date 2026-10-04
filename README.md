@@ -16,7 +16,7 @@
 <a href="mailto:jahshvrd@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://muhammedjahsh.github.io/jahsh.in/">
+<a href="https://muhammedjahsh.github.io/jahsh.dev/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 <a href="https://github.com/muhammedjahsh">
